@@ -1,7 +1,7 @@
 /*
  * ----------------------------------------------------------------
  * --- WARNING: THIS FILE IS GENERATED AND WILL BE OVERWRITTEN!
- * --- Generated at Dec 13, 2018 6:55:51 AM
+ * --- Generated at Dec 13, 2018 7:21:01 AM
  * ----------------------------------------------------------------
  *
  * [y] hybris Platform
