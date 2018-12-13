@@ -1,0 +1,9 @@
+#Ant properties
+#Fri Mar 09 16:17:17 CET 2018
+builddate=20180309 1612
+description=deliveryzone
+name=deliveryzone
+releasedate=20161216 2030
+vendor=hybris
+version=6.3.0.15
+version.api=6.3.0
