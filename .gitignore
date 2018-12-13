@@ -48,5 +48,5 @@ hs_err_pid*
 /bin/ext-smartedit
 /bin/ext-webservices
 
-
+/data/hsqldb/mydb.lck
 
